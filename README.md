@@ -1,4 +1,4 @@
-# Practical explanation on policies for integrating encrypted (CMK) SNS, SQS, Lambdas
+# Practical explanation on policies for integrating encrypted (CMK) SNS, SQS, Lambdas using Terraform
 
 ## Overview
 
